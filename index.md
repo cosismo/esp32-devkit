@@ -14,6 +14,7 @@ Tutoriales básicos en español](https://www.youtube.com/playlist?list=PL2xmtLUb
 
 Inglés:
 [Videos en Inglés 1:](https://www.youtube.com/watch?v=rP9p0MzxSos&list=PLxJ8_KSR8bp5-F4HVG4QOm4Kt6wQhzsjU)
+
 [Videos en Inglés 2:](https://www.youtube.com/watch?v=jhjZZkKupk8&list=PL3XBzmAj53RnZPeWe799F-uoXERBldhn9)
   
 [Información oficial del fabricante del chip](https://espressif.com/en/producttype/esp-wroom-32)
