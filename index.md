@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+### ESP32 Dev kit
+¡Gracias por tu compra!
 
-You can use the [editor on GitHub](https://github.com/cosismo/esp32-devkit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenido al Internet de las Cosas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para comenzar a utilizar tu ESP32 y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
-### Markdown
+[Grupo de Facebook en español sobre Internet de las Cosas]
+(https://www.facebook.com/groups/724628401049648/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Libro electrónico sobre el ESP32]
+(https://drive.google.com/file/d/11-IH-38VJOXbFJ1ybB1i2Cvcl9n3pSTU/view)
 
-```markdown
-Syntax highlighted code block
+Listas con decenas de videos con ejemplos y código de proyectos con ESP32:
+Tutoriales básicos en español:
+https://www.youtube.com/playlist?list=PL2xmtLUbEugnUoLiRTqwCm5wi2MSzsw3D
+Inglés:
+https://www.youtube.com/watch?v=rP9p0MzxSos&list=PLxJ8_KSR8bp5-F4HVG4QOm4Kt6wQhzsjU
+https://www.youtube.com/watch?v=jhjZZkKupk8&list=PL3XBzmAj53RnZPeWe799F-uoXERBldhn9
 
-# Header 1
-## Header 2
-### Header 3
+Información oficial del fabricante del chip:
+https://espressif.com/en/producttype/esp-wroom-32
 
-- Bulleted
-- List
+Librerías oficiales Arduino:
+https://github.com/espressif/arduino-esp32
 
-1. Numbered
-2. List
+Distribución de los pines para el modelo DOIT ESP32 devkit v1:
+https://raw.githubusercontent.com/playelek/pinout-doit-32devkitv1/master/pinoutDOIT32devkitv1.png
 
-**Bold** and _Italic_ and `Code` text
+Distribución de los pines para el modelo WROOM32:
+https://drive.google.com/file/d/1mg0xArQDeQ9RXl4M13djkiGNfexS9YOk/view?usp=sharing
 
-[Link](url) and ![Image](src)
-```
+Distribución de los pines para el el kit 20 en 1  modelo ESP32-MINI-32-V2.0:
+https://raw.githubusercontent.com/LilyGO/ESP32-MINI-32-V2.0/master/ZZ_Images/image1.jpg
+Ejemplos y librerías específicos para el kit 20 en 1 modelo ESP32-MINI-32-V2.0:
+https://github.com/LilyGO/ESP32-MINI-32-V2.0
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Foro y mucha información:
+https://esp32.com/
 
-### Jekyll Themes
+Driver USB para el modelo DOIT ESP32 devkit v1:
+https://www.silabs.com/products/interface/usb-bridges/classic-usb-bridges/device.cp2102
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosismo/esp32-devkit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+¡Suerte!
+  Equipo Cosismo
