@@ -5,19 +5,16 @@ Bienvenido al Internet de las Cosas.
 
 Para comenzar a utilizar tu ESP32 y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
-[Grupo de Facebook en español sobre Internet de las Cosas]
-(https://www.facebook.com/groups/724628401049648/)
+[Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
-[Libro electrónico sobre el ESP32]
-(https://drive.google.com/file/d/11-IH-38VJOXbFJ1ybB1i2Cvcl9n3pSTU/view)
+[Libro electrónico sobre el ESP32](https://drive.google.com/file/d/11-IH-38VJOXbFJ1ybB1i2Cvcl9n3pSTU/view)
 
-Listas con decenas de videos con ejemplos y código de proyectos con ESP32:
-Tutoriales básicos en español:
-https://www.youtube.com/playlist?list=PL2xmtLUbEugnUoLiRTqwCm5wi2MSzsw3D
+[Listas con decenas de videos con ejemplos y código de proyectos con ESP32:
+Tutoriales básicos en español](https://www.youtube.com/playlist?list=PL2xmtLUbEugnUoLiRTqwCm5wi2MSzsw3D)
 Inglés:
 https://www.youtube.com/watch?v=rP9p0MzxSos&list=PLxJ8_KSR8bp5-F4HVG4QOm4Kt6wQhzsjU
 https://www.youtube.com/watch?v=jhjZZkKupk8&list=PL3XBzmAj53RnZPeWe799F-uoXERBldhn9
-
+  
 Información oficial del fabricante del chip:
 https://espressif.com/en/producttype/esp-wroom-32
 
