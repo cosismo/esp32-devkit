@@ -1,5 +1,4 @@
 ### ESP32 Dev kit
-¡Gracias por tu compra!
 
 Bienvenido al Internet de las Cosas.
 
