@@ -2,6 +2,8 @@
 
 Bienvenido al Internet de las Cosas.
 
+Protip: para cargar el sketch / bin a tu ESP32, presiona y deja presionado el botón "boot" mientras lo transfieres.
+
 Para comenzar a utilizar tu ESP32 y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
 * Facebook.
