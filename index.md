@@ -38,7 +38,7 @@ Tutoriales básicos en español](https://www.youtube.com/playlist?list=PL2xmtLUb
 [Foro y mucha información](https://esp32.com/)
 
 * Driver USB
-[Driver USB para el modelo DOIT ESP32 devkit v1](https://www.silabs.com/products/interface/usb-bridges/classic-usb-bridges/device.cp2102)
+[Driver USB para el modelo DOIT ESP32 devkit v1](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
 
 ¡Suerte!
