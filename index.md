@@ -2,7 +2,7 @@
 
 Bienvenido al Internet de las Cosas.
 
-Protip: para cargar el sketch / bin a tu ESP32, presiona y deja presionado el botón "boot"(también conocido como "load") mientras lo transfieres. Si no lo haces probablemente no puedas cargar el sketch y se te presentarán errores como los que se describen en este post:
+Protip: para cargar el sketch / bin a tu ESP32, presiona y deja presionado el botón "boot" (también conocido como "load") mientras lo transfieres. Si no lo haces probablemente no puedas cargar el sketch y se te presentarán errores como los que se describen en este post:  
 [https://github.com/espressif/arduino-esp32/issues/1253](https://github.com/espressif/arduino-esp32/issues/1253)
 
 Para comenzar a utilizar tu ESP32 y encontrar toda la información técnica, te recomendamos las siguientes ligas:
