@@ -25,7 +25,7 @@ Tutoriales básicos en español](https://www.youtube.com/playlist?list=PL2xmtLUb
   [Videos en Inglés 2](https://www.youtube.com/watch?v=jhjZZkKupk8&list=PL3XBzmAj53RnZPeWe799F-uoXERBldhn9)
   
 * Fabricante del chip, Espressif. 
-[Información oficial del fabricante del chip](https://espressif.com/en/producttype/esp-wroom-32)
+[Información oficial del fabricante del chip](https://www.espressif.com/en/products/socs/esp32)
 
 * Arduino. 
 [Librerías oficiales Arduino](https://github.com/espressif/arduino-esp32)
