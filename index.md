@@ -15,7 +15,7 @@ Para comenzar a utilizar tu ESP32 y encontrar toda la información técnica, te 
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
 * **LIBRO ELECTRÓNICO**.
-## DESCARGAR LIBRO ELECTRONICO PDF
+### Descargar libro electrónico PDF
 [Libro electrónico sobre el ESP32](https://drive.google.com/file/d/11-IH-38VJOXbFJ1ybB1i2Cvcl9n3pSTU/view)
 
 * Videos en Español.
