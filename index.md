@@ -16,7 +16,7 @@ Para comenzar a utilizar tu ESP32 y encontrar toda la información técnica, te 
 
 * **LIBRO ELECTRÓNICO**.
 ### Descargar libro electrónico PDF
-[Libro electrónico sobre el ESP32](https://drive.google.com/file/d/11-IH-38VJOXbFJ1ybB1i2Cvcl9n3pSTU/view)
+[Libro electrónico sobre el ESP32](https://drive.google.com/file/d/11-IH-38VJOXbFJ1ybB1i2Cvcl9n3pSTU/view)  
 [Otro Libro](https://archive.org/details/foo_20210223)
 
 * Videos en Español.
