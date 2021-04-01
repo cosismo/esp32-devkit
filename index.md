@@ -48,7 +48,7 @@ Tutoriales básicos en español](https://www.youtube.com/playlist?list=PL2xmtLUb
 [Driver USB para el modelo DOIT ESP32 devkit v1](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
 Soporte whatsapp:
-![alt text](https://github.com/cosismo/esp32-devkit/raw/master/cosismoQRwa.png)
+![alt text](https://github.com/cosismo/esp32-devkit/raw/master/cosismoQRwaLR.png)
 
 ¡Suerte!
 
