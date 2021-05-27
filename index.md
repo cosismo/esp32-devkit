@@ -5,8 +5,7 @@ Bienvenido al Internet de las Cosas.
 Protip: para cargar el sketch / bin a tu ESP32, presiona y deja presionado el botón "boot" (también conocido como "load") mientras lo transfieres.  
 Si no lo haces probablemente no puedas cargar el sketch y se te presentarán errores como los que se describen en este post:  
 [https://github.com/espressif/arduino-esp32/issues/1253](https://github.com/espressif/arduino-esp32/issues/1253)  
-Actualización 2021: 
-
+Actualización 2021: Para evitar tener que presionar el botón de boot para cargar el sketch, algunas tarjetas nuevas tienen un rediseño que incluye un capacitor de montaje superficial, como el que se muestra en la siguiente imagen. Si tu placa cuenta con este componente, probablemente no será necesario que presiones el botón boot.  
 ![alt text](https://github.com/cosismo/esp32-devkit/blob/master/capacitor%20esp32.jpeg)
 
 La guía más básica para iniciar a programar el ESP32 con Arduino IDE es la que sigue (recuerda elegir el modelo DOIT ESP32 DEVKIT V1):  
