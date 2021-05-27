@@ -6,7 +6,7 @@ Protip: para cargar el sketch / bin a tu ESP32, presiona y deja presionado el bo
 Si no lo haces probablemente no puedas cargar el sketch y se te presentarán errores como los que se describen en este post:  
 [https://github.com/espressif/arduino-esp32/issues/1253](https://github.com/espressif/arduino-esp32/issues/1253)  
 Actualización 2021: 
-![alt text](https://github.com/cosismo/esp32-devkit/blob/master/capacitor%20esp32.jpeg)
+(https://github.com/cosismo/esp32-devkit/blob/master/capacitor%20esp32.jpeg)
 
 La guía más básica para iniciar a programar el ESP32 con Arduino IDE es la que sigue (recuerda elegir el modelo DOIT ESP32 DEVKIT V1):  
 [Programando el ESP32 con el Arduino IDE](https://www.profetolocka.com.ar/2020/07/09/programando-el-esp-32-con-el-arduino-ide/)
